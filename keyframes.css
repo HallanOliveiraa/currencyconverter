@@ -1,0 +1,24 @@
+
+    @keyframes fadeInAnimation{
+        0% {
+            background: #b2e1ff;
+            }
+        10% {
+            background: #a3d4f3;
+            }
+        20% {
+            background: #96d6fd;
+            }
+        40% {
+            background: #c7e7fc;
+            }
+        60% {
+            background: #8bc4e7;
+            }
+        80% {
+            background: #b5e3ff;
+            }
+        100% {
+            background: #a5d6f5;
+            }
+    }
