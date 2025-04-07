@@ -2,7 +2,7 @@
 
 <h1></h1>
 
-🌎 Desenvolvendo mais conhecimentos e aplicando em diversos projetos, como esse Conversor de Moedas que facilita a troca de Real brasileiro 🇧🇷 em moedas estrangeiras como dolar 🇺🇸 e euro €.
+🌎 Desenvolvendo mais conhecimentos e aplicando em diversos projetos, como Conversor de Moedas que facilita a conversão de Real brasileiro 🇧🇷 em moedas estrangeiras como dolar 🇺🇸 e euro €.
 
 <h1></h1>
 
